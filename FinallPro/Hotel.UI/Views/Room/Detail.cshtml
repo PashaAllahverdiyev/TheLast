@@ -1,0 +1,105 @@
+﻿@using Hotel.Core.Entities;
+@model Room
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Product Page</title>
+    <!-- css -->
+    <link rel="stylesheet" href="~/assets/css/detail.css">
+    <link rel="stylesheet" href="~/assets/css/rooms.css">    
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- swiper js cdn link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <!-- custom css link -->
+</head>
+<body>
+<section class="product-container">
+    <!-- left side -->
+    <div style="width:80%;" class="img-card">
+            @foreach (var image in Model.Images)
+            {
+                if (image.IsMain ?? false) // Eğer IsMain null ise false olarak kabul et
+                {
+                    <img style="width:100%;" src="~/@image.Url" alt="" id="featured-image">
+                    break; // Döngüyü sonlandır
+                }
+            }
+        <!-- small img -->
+        <div class="small-Card" style="overflow-x:auto;">
+            @foreach (var image in Model.Images)
+            {
+                <img src="~/@image.Url" alt="" class="small-Img">
+            }
+        </div>
+    </div>
+           
+    <!-- Right side -->
+    <div style="padding:50px" class="product-info">
+        <h3>@Model.Name</h3>
+        <h5>@Model.Price <del>$170</del></h5>
+            
+        <div class="sizes">
+            <p>Size:</p>
+            <select name="Size" id="size" class="size-option">
+                <option value="xxl">XXL</option>
+                <option value="xl">XL</option>
+                <option value="medium">Medium</option>
+                <option value="small">Small</option>
+            </select>
+        </div>
+
+       
+                
+                <div style="padding:0px 10px">
+
+                 <a asp-controller="Reservation" asp-action="Create" asp-route-id="@Model.Id">Reservation </a>
+                </div>
+            </div>
+      
+</section>
+    <div class="row">
+        <div class="card-body">
+            <form method="post">
+                <div style="display:flex;margin:0 530px" class="form-control">
+                    <input type="radio" value="1" name="rate" />
+                    <input type="radio" value="2" name="rate" />
+                    <input type="radio" value="3" name="rate" />
+                    <input type="radio" value="4" name="rate" />
+                    <input type="radio" value="5" name="rate" />
+                </div>
+                <textarea name="text">
+
+               </textarea>
+                <button type="submit">Comment</button>
+            </form>
+        </div>
+        <div cite="col-lg-5">
+           
+            @foreach (var review in Model.Reviews)
+            {
+                <div>
+                <div>
+                    Rating :
+                    @for (int i = 0; i < review.Rating; i++)
+                    {
+                        <i class="fa-solid fa-star"></i>
+                    }
+                    @for (int i = 0; i < 5 - review.Rating; i++)
+                    {
+                        <i class="fa-regular fa-star"></i>
+                    }
+                  
+                </div>
+      
+                    <p>
+                        @review.Comment.Text
+                    </p>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

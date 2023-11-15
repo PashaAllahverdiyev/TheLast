@@ -1,0 +1,2785 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\da.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\da.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\quill\\quill.core.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\quill\\quill.core.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\quill\\quill.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\quill\\quill.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\quill\\quill.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\accordion\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\accordion\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\template\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\template\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\admin\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Icons\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Icons\\profil1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Icons\\profil1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Icons\\profil2.jpg",
+      "PackagePath": "staticwebassets\\assets\\Icons\\profil2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Icons\\profil3.jpg",
+      "PackagePath": "staticwebassets\\assets\\Icons\\profil3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Sliders\\slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Sliders\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Sliders\\slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\Sliders\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Sliders\\slide3.jpg",
+      "PackagePath": "staticwebassets\\assets\\Sliders\\slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Sliders\\slide4.jpg",
+      "PackagePath": "staticwebassets\\assets\\Sliders\\slide4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\Sliders\\slide5.jpg",
+      "PackagePath": "staticwebassets\\assets\\Sliders\\slide5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\back\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\back\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\back\\pexels-cottonbro-6467633 (2160p).mp4",
+      "PackagePath": "staticwebassets\\assets\\back\\pexels-cottonbro-6467633 (2160p).mp4"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\back\\production_id_4456305 (2160p).mp4",
+      "PackagePath": "staticwebassets\\assets\\back\\production_id_4456305 (2160p).mp4"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\back\\video (2160p).mp4",
+      "PackagePath": "staticwebassets\\assets\\back\\video (2160p).mp4"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\basket.css",
+      "PackagePath": "staticwebassets\\assets\\css\\basket.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\card.css",
+      "PackagePath": "staticwebassets\\assets\\css\\card.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\design.css",
+      "PackagePath": "staticwebassets\\assets\\css\\design.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\detail.css",
+      "PackagePath": "staticwebassets\\assets\\css\\detail.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\error.css",
+      "PackagePath": "staticwebassets\\assets\\css\\error.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\rooms.css",
+      "PackagePath": "staticwebassets\\assets\\css\\rooms.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\09d03f27-61e1-4d39-be35-15934e3b8749Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\09d03f27-61e1-4d39-be35-15934e3b8749Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\0d544557-b564-4446-8e0d-c5f979835799about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\0d544557-b564-4446-8e0d-c5f979835799about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\14cd3101-7f2c-4910-b73b-eadc145a782cgallery4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\14cd3101-7f2c-4910-b73b-eadc145a782cgallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\1813f216-1d3b-42b2-b659-16e8904e2625Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\1813f216-1d3b-42b2-b659-16e8904e2625Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\1d733f31-374b-4e53-a957-6873dea77665Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\1d733f31-374b-4e53-a957-6873dea77665Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\229d7432-11d9-464f-ac02-4476a2dbc393Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\229d7432-11d9-464f-ac02-4476a2dbc393Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\24a98012-8eb3-4933-bc27-fcbf7d8b2855gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\24a98012-8eb3-4933-bc27-fcbf7d8b2855gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\25cdce9f-feae-440e-88fc-b084144df057gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\25cdce9f-feae-440e-88fc-b084144df057gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\2b837f15-0d65-4cb7-bdbd-605d6a164d81home-slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\2b837f15-0d65-4cb7-bdbd-605d6a164d81home-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\2cbef136-7ea8-4b0c-ba67-cee4de633cc5FAQs.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\2cbef136-7ea8-4b0c-ba67-cee4de633cc5FAQs.gif"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\2df8ebf3-74f5-471b-8d47-6f15886c710dabout.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\2df8ebf3-74f5-471b-8d47-6f15886c710dabout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\32f2dc33-f06d-49d4-ad3a-27e562232c8bgallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\32f2dc33-f06d-49d4-ad3a-27e562232c8bgallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\3339d20d-52ec-4912-9028-e68842c7a91egallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3339d20d-52ec-4912-9028-e68842c7a91egallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\34ff9362-ba86-4baa-b9e1-c4388cf2cf46gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\34ff9362-ba86-4baa-b9e1-c4388cf2cf46gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\3828537.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3828537.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\392d0665-674a-41af-87ef-3bf0dbb5a2a0about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\392d0665-674a-41af-87ef-3bf0dbb5a2a0about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\39f7ecc1-9a6a-4ad6-b0a5-aa67b56a431broom-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\39f7ecc1-9a6a-4ad6-b0a5-aa67b56a431broom-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\3aa38355-00da-4f6d-a6b5-e0eecc11f819about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3aa38355-00da-4f6d-a6b5-e0eecc11f819about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\3b3dacf1-9352-489d-90a2-e3764f7c0a15home-slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3b3dacf1-9352-489d-90a2-e3764f7c0a15home-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\3da786fe-2754-43c0-8243-8ef98cc3d97bhome-slide3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3da786fe-2754-43c0-8243-8ef98cc3d97bhome-slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\40f6dbad-3396-459c-b6c5-9f0b91a7040broom-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\40f6dbad-3396-459c-b6c5-9f0b91a7040broom-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\45afe4df-5837-416b-866a-b820727020b2about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\45afe4df-5837-416b-866a-b820727020b2about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\5224100c-f4a3-4dcb-90ef-ccb5f2a9fd2egallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\5224100c-f4a3-4dcb-90ef-ccb5f2a9fd2egallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\52c36d0c-3a86-42fd-a824-7933e7431a24about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\52c36d0c-3a86-42fd-a824-7933e7431a24about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\560be8be-0c78-49a9-8fb5-63e7ccc38916Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\560be8be-0c78-49a9-8fb5-63e7ccc38916Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\57fd9556-b60a-42e0-b553-5bd6e577c41eScreenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\57fd9556-b60a-42e0-b553-5bd6e577c41eScreenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\5d95b50a-90bc-4757-bcf1-9ea97064977fhome-slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\5d95b50a-90bc-4757-bcf1-9ea97064977fhome-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\5e6a6bd7-a0f5-403f-ab78-2762a2acff44about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\5e6a6bd7-a0f5-403f-ab78-2762a2acff44about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\61d9aa0a-f996-47de-a03e-1c2825a431b2about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\61d9aa0a-f996-47de-a03e-1c2825a431b2about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\650769c3-8778-422e-8e86-46553ec5dff0home-slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\650769c3-8778-422e-8e86-46553ec5dff0home-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\65c79f56-fa22-495b-91cc-580c4f95375ehome-slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\65c79f56-fa22-495b-91cc-580c4f95375ehome-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\6acf071d-0b32-4641-992c-b161bea3fcf1about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\6acf071d-0b32-4641-992c-b161bea3fcf1about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\6d838043-d6a5-4200-8ba4-abc5eeafa2echome-slide4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\6d838043-d6a5-4200-8ba4-abc5eeafa2echome-slide4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\7051d4c3-6aa5-405b-b1d3-24edf956eb9babout.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\7051d4c3-6aa5-405b-b1d3-24edf956eb9babout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\735ac208-3525-421f-8da2-829bb157cfd2gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\735ac208-3525-421f-8da2-829bb157cfd2gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\74bb98f5-4946-4c4b-8acc-8f3052bf7d23about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\74bb98f5-4946-4c4b-8acc-8f3052bf7d23about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\78632053-54d8-4b03-b35d-93ea42d6a407Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\78632053-54d8-4b03-b35d-93ea42d6a407Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\79593950-05d8-40e5-a43a-ce6a20eea4b5room-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\79593950-05d8-40e5-a43a-ce6a20eea4b5room-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\7f2586a1-d5b5-4bad-8ede-43f5e2ee01d1about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\7f2586a1-d5b5-4bad-8ede-43f5e2ee01d1about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\80d611a7-1a7a-4100-ab5b-6f58eeb16f8cabout.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\80d611a7-1a7a-4100-ab5b-6f58eeb16f8cabout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\81d6a564-4f37-417c-9358-0b980d04c7d1Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\81d6a564-4f37-417c-9358-0b980d04c7d1Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\86ec96e2-d2f9-4c92-97ec-0f75d592d237about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\86ec96e2-d2f9-4c92-97ec-0f75d592d237about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\8c2e4092-69a3-4e79-ae11-928be2555d65gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\8c2e4092-69a3-4e79-ae11-928be2555d65gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\90a07cf5-2ed9-4bdf-9250-cbc588c746a1gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\90a07cf5-2ed9-4bdf-9250-cbc588c746a1gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\93a55c80-15a6-40b4-a570-79a86c70a83egallery5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\93a55c80-15a6-40b4-a570-79a86c70a83egallery5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\960f0302-dacb-4393-bce4-1ec49c454aa9about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\960f0302-dacb-4393-bce4-1ec49c454aa9about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\98c94eb2-0616-44c1-93a2-ca8e131f83cdhome-slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\98c94eb2-0616-44c1-93a2-ca8e131f83cdhome-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\FAQs.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\FAQs.gif"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\a1a059c1-b39c-41ae-bf6f-8e49554f3ff6gallery4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a1a059c1-b39c-41ae-bf6f-8e49554f3ff6gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\a29bbae4-ae5f-4bda-a099-b6ef53543c04about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a29bbae4-ae5f-4bda-a099-b6ef53543c04about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\a462772c-7b3d-4ce8-aa4a-b10609249b69gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a462772c-7b3d-4ce8-aa4a-b10609249b69gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\a47aaa0c-ff0d-446b-a16b-c172faaaea06home-slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a47aaa0c-ff0d-446b-a16b-c172faaaea06home-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\a98032fd-13d9-4e25-8af0-0938e21640e5about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\a98032fd-13d9-4e25-8af0-0938e21640e5about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\aa15242d-496c-4cb2-8547-19a65aee993fgallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\aa15242d-496c-4cb2-8547-19a65aee993fgallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\ae8230a3-223b-47a9-b6b6-dceec8a2c76agallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ae8230a3-223b-47a9-b6b6-dceec8a2c76agallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\b6c87f8b-ac2d-4b96-be79-58054268c375FAQs.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\b6c87f8b-ac2d-4b96-be79-58054268c375FAQs.gif"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\babe6530-1573-4f00-bdde-741c28b2a7edroom-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\babe6530-1573-4f00-bdde-741c28b2a7edroom-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\bd814ebe-f3de-4d6e-a4e9-c4aa16d401ecgallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bd814ebe-f3de-4d6e-a4e9-c4aa16d401ecgallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\c1aacb63-0038-4466-963d-04155ab64bdfScreenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c1aacb63-0038-4466-963d-04155ab64bdfScreenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\c978e5b9-d6e4-4432-a114-109fc3aa24a9Ekran görüntüsü 2023-05-15 005434.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c978e5b9-d6e4-4432-a114-109fc3aa24a9Ekran görüntüsü 2023-05-15 005434.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\cd3e12c4-88f2-4853-8d50-0b3748bc439agallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cd3e12c4-88f2-4853-8d50-0b3748bc439agallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\cd843d49-fc19-482e-b798-c939023b275eEkran görüntüsü 2023-05-15 005434.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cd843d49-fc19-482e-b798-c939023b275eEkran görüntüsü 2023-05-15 005434.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\ce4addb1-ee75-43d1-ac35-9edf0c12596croom-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ce4addb1-ee75-43d1-ac35-9edf0c12596croom-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\d238d986-7121-4e07-b384-dbf5b1776a78about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\d238d986-7121-4e07-b384-dbf5b1776a78about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\d9db5572-32c1-4994-bdee-3d51d54be2c8room-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\d9db5572-32c1-4994-bdee-3d51d54be2c8room-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\da6db44e-9ccb-4a1f-91d8-c247974c45b7Ekran görüntüsü 2023-05-15 005434.png",
+      "PackagePath": "staticwebassets\\assets\\images\\da6db44e-9ccb-4a1f-91d8-c247974c45b7Ekran görüntüsü 2023-05-15 005434.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\da7e6fb2-211d-4bd9-83f8-8fcddb67df01room-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\da7e6fb2-211d-4bd9-83f8-8fcddb67df01room-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\dad30a75-c9d6-4e24-8ca1-a0e810d10596room-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dad30a75-c9d6-4e24-8ca1-a0e810d10596room-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\db2c7893-c4b2-4c98-ba89-380c2bdfbdc8about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\db2c7893-c4b2-4c98-ba89-380c2bdfbdc8about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\dbb72664-dae5-4435-90de-95825c577911gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dbb72664-dae5-4435-90de-95825c577911gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\e18add77-e619-4d9c-bf40-0b65e08d1934gallery2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\e18add77-e619-4d9c-bf40-0b65e08d1934gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\e49dff1b-16c7-43d7-af11-5342c98a9421gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\e49dff1b-16c7-43d7-af11-5342c98a9421gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\e5952091-8c73-4004-bf24-6be1628efef5about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\e5952091-8c73-4004-bf24-6be1628efef5about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\eafd5c30-7cb2-448d-8858-8118e80c0517Screenshot 2023-09-25 125924.png",
+      "PackagePath": "staticwebassets\\assets\\images\\eafd5c30-7cb2-448d-8858-8118e80c0517Screenshot 2023-09-25 125924.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\ee41db7b-ace7-4875-9aa7-8882e87abdf0home-slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ee41db7b-ace7-4875-9aa7-8882e87abdf0home-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\ef0fa743-cac2-48bc-8e98-61ed787a9650about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ef0fa743-cac2-48bc-8e98-61ed787a9650about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\f1898ea4-4e0b-4f52-8d35-c4fcaa551037gallery6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\f1898ea4-4e0b-4f52-8d35-c4fcaa551037gallery6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\gallery5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\gallery6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\home-slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\home-slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\home-slide3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\home-slide4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-slide4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\pic-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\pic-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\pic-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\pic-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\pic-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pic-5.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\pic-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pic-6.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\review.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\review.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\room-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\room-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\room-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\room-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\room-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\room-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\room-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\room-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\room-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\room-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\room-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\room-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\service1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service1.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\service2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service2.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\service3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service3.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\service4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service4.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\service5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service5.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\service6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service6.png"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\signup-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\javaScript\\basket.js",
+      "PackagePath": "staticwebassets\\assets\\javaScript\\basket.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\javaScript\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\javaScript\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\javaScript\\main.js",
+      "PackagePath": "staticwebassets\\assets\\javaScript\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\javaScript\\rooms.js",
+      "PackagePath": "staticwebassets\\assets\\javaScript\\rooms.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\javaScript\\slider.js",
+      "PackagePath": "staticwebassets\\assets\\javaScript\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\I'm Pasha\\source\\repos\\FinalPro\\FinallPro\\Hotel.UI\\wwwroot\\assets\\javaScript\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\javaScript\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hotel.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hotel.UI.props",
+      "PackagePath": "build\\Hotel.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel.UI.props",
+      "PackagePath": "buildMultiTargeting\\Hotel.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hotel.UI.props",
+      "PackagePath": "buildTransitive\\Hotel.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

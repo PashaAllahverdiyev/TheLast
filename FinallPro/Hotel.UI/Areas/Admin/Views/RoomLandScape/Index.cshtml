@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Hotel.Core.Entities.RoomLandScape>
+
+
+
+
+<main id="main" class="main">
+    <section class="section">
+        <div class="row">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">RoomLandScape</h5>
+
+                    <a asp-action="Create" class="btn btn-dark">Create New </a>
+
+                    <!-- Table with stripped rows -->
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">Garden</th>
+                                <th scope="col">City</th>
+                                <th scope="col">Settings</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Garden </td>
+                                    <td>@item.City</td>
+                                    <td style="display:flex">
+                                        <a  asp-action="Details" asp-route-id=@item.Id class="btn btn-primary">
+                                            <i class="bx bx-comment-detail"></i>
+                                        </a>
+                                        <a style="margin-left:10px;display:inline-block;" asp-action="Update" asp-route-id=@item.Id class="btn btn-warning">
+                                            <i class="bx bxs-edit"></i>
+                                        </a>
+                                        <form style="padding-left:10px;" method="post" asp-action="DeleteConfirmed" asp-route-id="@item.Id" onclick="return confirm('Bunumu istiyirdiniz ?')">
+                                            @Html.AntiForgeryToken()
+                                            <button type="submit" class="btn btn-danger">
+                                                <i class="bx bx-trash"></i>
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <!-- End Table with stripped rows -->
+
+                </div>
+            </div>
+        </div>
+    </section>
+</main><!-- End #main -->
+

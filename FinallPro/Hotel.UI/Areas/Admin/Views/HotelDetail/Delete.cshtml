@@ -1,0 +1,16 @@
+﻿@model Hotel.Core.Entities.HotelDetail
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+
+
+
+<form class="mt-5" method="post" asp-route="hoteldetail-delete" asp-route-id="@Model.Id" id="book-@Model.Id"></form>
+<button form="book-@Model.Id" type="submit">Delete</button>
+
+
+
+<h1 class="mt-5">@Model.FreeParking</h1>
+

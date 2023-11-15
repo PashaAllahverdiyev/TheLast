@@ -1,0 +1,49 @@
+﻿@using Hotel.UI.ViewModels.ReservationVM;
+@model ReservationViewModel
+
+@* ViewModelden getir *@
+
+<main class="reservation" id="reservation">
+
+    <h1 class="heading">book now</h1>
+
+    <form method="post" asp-controller="Reservation" asp-action="Create">
+
+        <div class="container">
+
+            
+            <div class="box" style="display:none;">
+                <p>name <span>*</span></p>
+                <input readonly asp-for="@Model.RoomId" type="text" class="input">
+            </div>
+            <div class="box" style="display:none;">
+                <p>name <span>*</span></p>
+                <input readonly asp-for="@Model.Room" type="text" class="input">
+            </div>
+            <div class="box ">
+                <p>name <span>*</span></p>
+                <input readonly asp-for="@Model.Room.Name" type="text" class="input">
+            </div>
+            <div class="box">
+                <p>check in <span>*</span></p>
+                <input asp-for="@Model.CheckInTime" type="date" class="input" value="@DateTime.Today.ToString("yyyy-MM-dd")">
+            </div>
+
+            <div class="box">
+                <p>check out <span>*</span></p>
+                <input asp-for="@Model.CheckOutTime" type="date" class="input" value="@DateTime.Today.ToString("yyyy-MM-dd")">
+            </div>
+
+        </div>
+
+      @*   <form method="post" action="Reservation">
+            <!-- Diğer form alanları -->
+
+            <input type="submit" value="check availability" class="btn">
+        </form> *@
+
+        <button type="submit">Submit</button>
+    </form>
+
+</main>
+

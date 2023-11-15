@@ -1,0 +1,38 @@
+﻿@using Hotel.UI.ViewModels.ContactVm;
+@model ContactCreateViewModel
+<section id="Contact-mail">
+    <div class="container">
+        <h1 style="text-align: center;">Got Any Questions?</h1>
+        <p style="text-align: center;">Use the form below to get in touch with the sales team</p>
+        <form asp-action="Create" method="post">
+            <div class="row">
+                <div class="form-group col-lg-12" style="">
+                    <input asp-for="@Model.Name" type="text" class="form-contro" placeholder="Name" />
+                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                </div>
+                <div class="form-group col-lg-12">
+                    <input asp-for="@Model.Email" class="form-contro" placeholder="Email" />
+                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                </div>
+                <div class="form-group col-lg-12">
+                    <input asp-for="@Model.Phone" class="form-contro" placeholder="Phone" />
+                    <span asp-validation-for="@Model.Phone" class="text-danger"></span>
+                </div>
+                <div class="form-group col-lg-12">
+                    <textarea asp-for="@Model.Message" class="form-contro" name="message" id="" cols="54" rows="2" placeholder="message"></textarea>
+                    <span asp-validation-for="@Model.Message" class="text-danger"></span>
+                </div>
+            </div>
+            @if (User.Identity.IsAuthenticated)
+            {
+                @if (User.IsInRole("Member"))
+                {
+                    <button type="submit">Send <i class="fa-solid fa-angle-right"></i></button>
+                }
+            }
+        </form>
+        <p style="text-align: center;">
+            This site is protected by reCAPTCHA and the Google <a href="">Privacy Policy</a> and <a href="">Terms of Service</a> apply.
+        </p>
+    </div>
+</section>

@@ -1,0 +1,335 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PashaHotell-Rooms</title>
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- swiper js cdn link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <!-- custom css link -->
+    <link rel="stylesheet" href="~/assets/css/detail.css">
+    <link rel="stylesheet" href="~/assets/css/rooms.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+@*     <link rel="stylesheet" href="~/assets/css/bootstrap.css">
+ *@
+
+</head>
+<body>
+
+    <!-- header -->
+
+    <header class="header">
+
+        <a href="#" class="logo"> <i class="fas fa-hotel"></i> Pasha Hotell </a>
+
+        <nav class="navbar">
+            <a href="#home">home</a>
+            <a href="#about">about</a>
+            <a href="#room">room</a>
+            <a href="#gallery">gallery</a>
+            <a href="#review">review</a>
+            <a href="#faq">faq</a>
+            <a href="#reservation" class="btn"> book now</a>
+           
+           
+           
+            @if (User.Identity.IsAuthenticated)
+            {
+                <form style="display:inline-block;" method="post" asp-controller="Auth" asp-action="Logout">
+                    @Html.AntiForgeryToken()
+                    <button style="padding:15px 39px;border-radius:5px" type="submit">
+                        Logout
+                    </button>
+                </form>
+
+
+            }
+            else
+            {
+                <a asp-controller="Auth" asp-action="Login" class="btn">SignIn & SignUp </a>
+            }
+            <a asp-controller="Contact" asp-action="Index">Contact Us</a>
+            <i style="margin-left:15px;" id="basket-click" class="fa-solid fa-shop"><span id="count-basket">0</span> </i>
+        </nav>
+
+        <div id="menu-btn" class="fas fa-bars"></div>
+      
+
+        <div class="basket ">
+            <div class="basket-head">
+                <div class="basket-count">
+                    <span style="font-weight: bold; color:#0077b6">Cart</span>
+                    <span style="background-color:#0077b6" id="count-basket-cart">0</span>
+                </div>
+                <div class="basket-icon">
+                    <i style="color:#0077b6" class="fa-solid fa-x"></i>
+                </div>
+            </div>
+            <div class="basket-all row">
+            </div>
+            <div class="basket-none">
+                <p class="icon-b">
+                    <i style="color:#0077b6" class="fa-solid fa-store"></i>
+                </p>
+                <p style="color:#0077b6" class="b-write">No products in the cart.</p>
+                <a style="color:#0077b6;border:1px solid #0077b6"  href="Shop.html">Shop Our Products</a>
+            </div>
+            <div class="Total-price d-none">
+                <div>
+                    <p style="color:#0077b6">Total</p>
+                    <p style="color:#0077b6">$ <span id="Total">0</span></p>
+                </div>
+                <p style="color:#0077b6">Taxes and shipping calculated at checkout</p>
+                <a style="display:inline-block;width:46%; font-size:11px;border:1px solid #0077b6;color:#0077b6;" class="Cart" href="">View Cart</a>
+                <a style="display:inline-block;width:46%;font-size:11px;background-color:#0077b6" class="Check" href="Checkout.html">Check Out</a>
+            </div>
+        </div>
+
+
+    </header>
+
+    <!-- end -->
+        @RenderBody()
+   <footer class="footer">
+
+      <div class="box-container">
+
+         <div class="box">
+            <h3>contact info</h3>
+            <a href="#"> <i class="fas fa-phone"></i> +123-852-4565 </a>
+            <a href="#"> <i class="fas fa-phone"></i> +123-852-4565</a>
+            <a href="#"> <i class="fas fa-envelope"></i> pashama@code.edu.az</a>
+            <a href="#"> <i class="fas fa-map"></i> Azerbaijan,Baku</a>
+         </div>
+
+         <div class="box">
+            <h3>quick links</h3>
+            <a href="#home"> <i class="fas fa-arrow-right"></i> home</a>
+            <a href="#about"> <i class="fas fa-arrow-right"></i> about</a>
+            <a href="#room"> <i class="fas fa-arrow-right"></i> rooms</a>
+            <a href="#gallery"> <i class="fas fa-arrow-right"></i> gallery</a>
+            <a href="#reservation"> <i class="fas fa-arrow-right"></i> reservation</a>
+         </div>
+
+         <div class="box">
+            <h3>extra links</h3>
+            <a href="#"> <i class="fas fa-arrow-right"></i> refund policy</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> refund policy</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> refund policy</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> refund policy</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> refund policy</a>
+         </div>
+
+      </div>
+
+      <div class="share">
+         <a href="#" class="fab fa-facebook-f"></a>
+         <a href="#" class="fab fa-instagram"></a>
+         <a href="#" class="fab fa-twitter"></a>
+         <a href="#" class="fab fa-pinterest"></a>
+      </div>
+
+      <div class="credit">&copy; copyright 2023 by <span>PashaCode</span></div>
+
+   </footer>
+
+   <!-- end -->
+
+   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+<script>
+    if (localStorage.getItem('basket') === null) {
+        localStorage.setItem('basket', JSON.stringify([]))
+    }
+
+    let Add_cart = document.querySelectorAll('.Add-cart')
+    for (let add_cart of Add_cart) {
+        add_cart.onclick = () => {
+            let id = add_cart.parentElement.parentElement.getAttribute('id')
+            let src = add_cart.previousElementSibling.children[0].getAttribute('src');
+            let text = add_cart.parentElement.parentElement.children[1].children[1].innerText
+            let price = add_cart.previousElementSibling.previousElementSibling.children[0].innerText
+            let baskets = JSON.parse(localStorage.getItem('basket'))
+            let exist = baskets.find(x => x.Id === id)
+            if (exist === undefined) {
+                baskets.push({
+                    Id: id,
+                    sekil: src,
+                    yazi: text,
+                    price: price,
+                    Count: 1
+                })
+            } else {
+                exist.Count += 1
+            }
+            localStorage.setItem('basket', JSON.stringify(baskets))
+            showb()
+            showbasket()
+            getbasket()
+            calc()
+        }
+    }
+
+    function getbasket() {
+        let items = JSON.parse(localStorage.getItem('basket'))
+        let n = ''
+        for (let item of items) {
+            n += `
+          <div class="tab-basket-all col-lg-12 col-12" id="${item.Id}">
+                      <div class="tab-basket">
+                           <div class="basket-photo">
+                              <a href="#"> <img src="${item.sekil}" alt=""></a>
+                           </div>
+                           <div class="basket-content">
+                              <p >${item.yazi}</p>
+                              <span class="price1" style="color: #Ff6f2e; font-weight: 700;">${item.price}</span>
+                              <span style="color: #Ff6f2e; font-weight: 700;">*</span>
+                              <span class="price2" style="color: #Ff6f2e; font-weight: 700;">${item.Count}</span>
+                              <div class="wrapper">
+                                <span class="minus">-</span>
+                                <span class="num">${item.Count}</span>
+                                <span class="plus">+</span>
+                              </div>
+                              <p class="content-icon">remove</p>
+                          </div>
+                      </div>
+                  </div>
+          `
+        }
+        document.querySelector('.basket-all').innerHTML = n
+        let dlt = document.querySelectorAll('.content-icon')
+        const pluss = document.querySelectorAll('.plus'),
+            minuss = document.querySelectorAll('.minus');
+
+        let T = 1
+        for (let plus of pluss) {
+            if (T < 15) {
+                plus.onclick = function () {
+                    let num = this.previousElementSibling;
+                    let num2 = this.parentElement.previousElementSibling;
+                    let num3 = this.parentElement.parentElement.children[1].innerText;
+                    let priceValues = parseFloat(num3.replace('$', ''));
+                    let b = num2.innerText;
+                    let a = num.innerText;
+
+                    if (a < 15) {
+                        a++;
+                        b++;
+                        num.innerText = a;
+                        num2.innerText = b;
+
+                        let ID = this.parentElement.parentElement.parentElement.parentElement.getAttribute('id');
+                        let items = JSON.parse(localStorage.getItem('basket'));
+                        let updatedItems = items.map(item => {
+                            if (item.Id == ID) {
+                                item.Count = a;
+                            }
+                            return item;
+                        });
+                        localStorage.setItem('basket', JSON.stringify(updatedItems));
+                    }
+
+                    let Totals = b * priceValues;
+                    document.getElementById('Total').innerHTML = Totals.toFixed(2);
+                    calc();
+                    T++;
+                }
+            }
+        }
+        for (let minus of minuss) {
+            minus.onclick = function () {
+                let num = this.parentElement.children[1]
+                let num2 = this.parentElement.previousElementSibling
+                let num3 = this.parentElement.parentElement.children[1].innerText
+                let priceValues = parseFloat(num3.replace('$', ''));
+                let b = num2.innerText
+                let a = num.innerText
+                if (a > 1) {
+                    a--;
+                    b--;
+                    num.innerText = a
+                    num2.innerText = b
+
+                    let ID = this.parentElement.parentElement.parentElement.parentElement.getAttribute('id');
+                    let items = JSON.parse(localStorage.getItem('basket'));
+                    let updatedItems = items.map(item => {
+                        if (item.Id == ID) {
+                            item.Count = a;
+                        }
+                        return item;
+                    });
+                    localStorage.setItem('basket', JSON.stringify(updatedItems));
+                }
+                let Total = b * priceValues
+                document.getElementById('Total').innerHTML = Total.toFixed(2)
+                calc()
+            }
+        }
+        for (let del of dlt) {
+            del.onclick = () => {
+                let ID = del.parentElement.parentElement.parentElement.getAttribute('id')
+                let kartfilter = items.filter(z => z.Id != ID)
+                localStorage.setItem('basket', JSON.stringify(kartfilter))
+                getbasket()
+                showb()
+                calc()
+                showbasket()
+            }
+        }
+    }
+    function showb() {
+        let basketb = JSON.parse(localStorage.getItem('basket'))
+        document.getElementById('count-basket').innerHTML = basketb.length
+        document.getElementById('count-basket-cart').innerHTML = basketb.length
+    }
+    function calc() {
+        var priceElements = document.querySelectorAll('.price1');
+        Total = 0
+        for (var i = 0; i < priceElements.length; i++) {
+            let count = priceElements[i].parentElement.children[3].innerHTML
+            var priceText = priceElements[i].innerHTML;
+            var priceValue = parseFloat(priceText.replace('$', ''));
+            let Totals = priceValue * count
+            Total += Totals
+        }
+        document.getElementById('Total').innerHTML = Total.toFixed(2)
+    }
+    function showbasket() {
+        let karts = JSON.parse(localStorage.getItem('basket'))
+        if (karts.length === 0) {
+            document.querySelector('.basket-none').classList.remove('d-none')
+            document.querySelector('.Total-price').classList.add('d-none')
+        }
+        else {
+            document.querySelector('.basket-none').classList.add('d-none')
+            document.querySelector('.Total-price').classList.remove('d-none')
+        }
+    }
+
+    showbasket()
+    showb()
+    getbasket()
+    calc()
+    let basketaa = document.querySelector('.basket')
+    let basket_click = document.querySelector('#basket-click')
+    let _icon = document.querySelector('.basket-icon')
+
+    basket_click.onclick = () => {
+        basketaa.style.display = 'block'
+    }
+
+    _icon.onclick = () => {
+        if (basketaa.style.display === 'block') {
+            basketaa.style.display = 'none'
+        }
+    }
+</script>
+    <script src="~/assets/javaScript/slider.js"></script>
+    <script src="~/assets/javaScript/rooms.js"></script>
+    <script src="~/assets/javaScript/main.js"></script>
+    <script src="~/assets/javaScript/cart.js"></script>
+
+</body>
+</html>

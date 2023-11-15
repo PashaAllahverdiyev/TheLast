@@ -1,0 +1,92 @@
+﻿@using Hotel.Core.Entities;
+@model Hotel.Business.ViewModels.RoomVM.RoomCreateViewModel
+
+
+@{
+    List<Size> sizes = ViewBag.Sizes;
+   }
+
+
+<h1>Create</h1>
+
+
+<main id ="main" class="main">
+    <div class="row">
+        <div class="card">
+            <div class="card-body">
+                <h4>RoomCreateViewModel</h4>
+                <hr />
+                <div class="row">
+                    <div class="col-md-4">
+                        <form asp-action="Create" enctype="multipart/form-data">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="Name" class="control-label"></label>
+                                <input asp-for="Name" class="form-control" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Price" class="control-label"></label>
+                                <input asp-for="Price" class="form-control" />
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Status" class="control-label"></label>
+                                <input asp-for="Status" class="form-control" />
+                                <span asp-validation-for="Status" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="MainImage" class="control-label"></label>
+                                <input asp-for="MainImage" class="form-control" />
+                                <span asp-validation-for="MainImage" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Images" class="control-label"></label>
+                                <input asp-for="Images" class="form-control" />
+                                <span asp-validation-for="Images" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="SizeIds" class="control-label"></label>
+                                <select asp-for="SizeIds">
+                                    @foreach (Size size in sizes)
+                                    {
+                                        <option value="@size.Id">@size.SizeName</option>
+                                    }
+                                </select>
+                                <span asp-validation-for="SizeIds" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="RoomDetailId" class="control-label"></label>
+                                <input asp-for="RoomDetailId" class="form-control" />
+                                <span asp-validation-for="RoomDetailId" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="BathRoomId" class="control-label"></label>
+                                <input asp-for="BathRoomId" class="form-control" />
+                                <span asp-validation-for="BathRoomId" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="RoomLandScapeId" class="control-label"></label>
+                                <input asp-for="RoomLandScapeId" class="form-control" />
+                                <span asp-validation-for="RoomLandScapeId" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="HotelId" class="control-label"></label>
+                                <input asp-for="HotelId" class="form-control" />
+                                <span asp-validation-for="HotelId" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

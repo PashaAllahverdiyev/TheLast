@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Hotel.Core.Entities.Bathroom>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Shower)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Toileet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BathroomSupplies)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dressing)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.Shower)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.Toileet)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.BathroomSupplies)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.Dressing)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    <form method="post" asp-action="DeleteConfirmed" asp-route-id="@item.Id" onclick="return confirm('Bunumu istiyirdiniz ?')">
+                        @Html.AntiForgeryToken()
+                        <button type="submit">
+                            <i class="bx bx-trash"></i>
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
